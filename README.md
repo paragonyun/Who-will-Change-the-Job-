@@ -1,4 +1,4 @@
-# 이직자를 예측 프로젝트. Project to predict job turnover
+# 이직자 예측 프로젝트. Project to predict job turnover
 
 #### 당시 동아리 세션에서 배웠던 모델만 사용 가능했기에 선형 계열 모델들로 예측을 수행했습니다.
 #### At that time, only the models learned in the BITAmin session were available, so we made predictions with linear models.
